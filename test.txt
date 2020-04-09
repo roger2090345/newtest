@@ -1,4 +1,0 @@
-This is a test file.
-and~
-This text is a test text too.
-456
